@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1001,
+    "name": "奖励1",
+    "desc": "碎片",
+    "count": 100,
+    "iscarry": false
+  },
+  {
+    "id": 1002,
+    "name": "奖励2",
+    "desc": "金币",
+    "count": 1000,
+    "iscarry": true
+  },
+  {
+    "id": 1004,
+    "name": "奖励X",
+    "desc": "法球",
+    "count": 1,
+    "iscarry": true
+  },
+  {
+    "id": 1005,
+    "name": "奖励4",
+    "desc": "宝典",
+    "count": 3,
+    "iscarry": false
+  }
+]
